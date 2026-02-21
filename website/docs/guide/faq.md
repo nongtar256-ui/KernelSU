@@ -1,3 +1,4 @@
+อก
 # FAQ
 
 ## Does KernelSU support my device?
